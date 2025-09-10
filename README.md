@@ -41,7 +41,12 @@ run_slam.py configs/Replica/room0.yaml
 
 ## Acknowledgments
 ```
-Lyu Hengye， Liu Yanli， Li Hong， Yuan Xia， Xing Guanyu. 2025. Multi-view intrinsic decomposition of indoor scenes under a 3D Gaussian splatting framework. Journal of Image and Graphics， 30(7):2514-2527 DOI： 10.11834/jig.240505.
+@article{Lyu2025multi,
+  title={Multi-view intrinsic decomposition of indoor scenes under a 3D Gaussian splatting framework},
+  author={Lyu Hengye， Liu Yanli， Li Hong， Yuan Xia， Xing Guanyu},
+  journal={Journal of Image and Graphics， 30(7):2514-2527 DOI： 10.11834/jig.240505},
+  year={2023}
+}
 
 @article{yugay2023gaussian,
   title={Gaussian-slam: Photo-realistic dense slam with gaussian splatting},
